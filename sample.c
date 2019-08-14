@@ -10,6 +10,6 @@ printf("Positive");
 }
 else
 {
-print("Zero);
+print("Zero");
 }
 }
